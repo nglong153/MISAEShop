@@ -26,10 +26,10 @@ namespace DemoApi.Controllers
                     Data = serviceResult.Data
                 });
             else
-                return Ok(new
+                return BadRequest(new
                 {
                     Success = false,
-                    Message = "Thực hiện thêm mới shop không thành công"
+                    Message = serviceResult.Data
                 });
         }
 
@@ -44,10 +44,10 @@ namespace DemoApi.Controllers
                     Data = serviceResult.Data
                 });
             else
-                return Ok(new
+                return BadRequest(new
                 {
                     Success = false,
-                    Message = "Thực hiện sửa shop không thành công"
+                    Message = serviceResult.Data
                 });
         }
     }

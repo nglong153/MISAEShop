@@ -16,3 +16,14 @@ C:\Users\nglon\OneDrive\Documents\Project\MISA.Web2021_02\mf724-nhlong\MISA.CukC
 C:\Users\nglon\OneDrive\Documents\Project\MISA.Web2021_02\mf724-nhlong\MISA.CukCukDemoAPI\MISA.Services\obj\Debug\netcoreapp3.1\MISA.Services.csproj.CoreCompileInputs.cache
 C:\Users\nglon\OneDrive\Documents\Project\MISA.Web2021_02\mf724-nhlong\MISA.CukCukDemoAPI\MISA.Services\obj\Debug\netcoreapp3.1\MISA.Services.dll
 C:\Users\nglon\OneDrive\Documents\Project\MISA.Web2021_02\mf724-nhlong\MISA.CukCukDemoAPI\MISA.Services\obj\Debug\netcoreapp3.1\MISA.Services.pdb
+C:\Users\nhlong\Documents\MISAEshop\MISA.CukCukDemoAPI\MISA.Services\bin\Debug\netcoreapp3.1\MISA.Services.deps.json
+C:\Users\nhlong\Documents\MISAEshop\MISA.CukCukDemoAPI\MISA.Services\bin\Debug\netcoreapp3.1\MISA.Services.dll
+C:\Users\nhlong\Documents\MISAEshop\MISA.CukCukDemoAPI\MISA.Services\bin\Debug\netcoreapp3.1\MISA.Services.pdb
+C:\Users\nhlong\Documents\MISAEshop\MISA.CukCukDemoAPI\MISA.Services\obj\Debug\netcoreapp3.1\MISA.Services.csprojAssemblyReference.cache
+C:\Users\nhlong\Documents\MISAEshop\MISA.CukCukDemoAPI\MISA.Services\obj\Debug\netcoreapp3.1\MISA.Services.AssemblyInfoInputs.cache
+C:\Users\nhlong\Documents\MISAEshop\MISA.CukCukDemoAPI\MISA.Services\obj\Debug\netcoreapp3.1\MISA.Services.AssemblyInfo.cs
+C:\Users\nhlong\Documents\MISAEshop\MISA.CukCukDemoAPI\MISA.Services\obj\Debug\netcoreapp3.1\MISA.Services.csproj.CoreCompileInputs.cache
+C:\Users\nhlong\Documents\MISAEshop\MISA.CukCukDemoAPI\MISA.Services\obj\Debug\netcoreapp3.1\MISA.Services.dll
+C:\Users\nhlong\Documents\MISAEshop\MISA.CukCukDemoAPI\MISA.Services\obj\Debug\netcoreapp3.1\MISA.Services.pdb
+C:\Users\nhlong\Documents\MISAEshop\MISA.CukCukDemoAPI\MISA.Services\obj\Debug\netcoreapp3.1\MISA.Services.Properties.Resources.resources
+C:\Users\nhlong\Documents\MISAEshop\MISA.CukCukDemoAPI\MISA.Services\obj\Debug\netcoreapp3.1\MISA.Services.csproj.GenerateResource.cache

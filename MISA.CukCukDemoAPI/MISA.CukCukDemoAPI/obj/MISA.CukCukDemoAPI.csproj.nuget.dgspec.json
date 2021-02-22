@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI.csproj": {}
+    "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI.csproj": {
+    "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI.csproj",
         "projectName": "MISA.CukCukDemoAPI",
-        "projectPath": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI.csproj",
-        "packagesPath": "C:\\Users\\nglon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI\\obj\\",
+        "projectPath": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI.csproj",
+        "packagesPath": "C:\\Users\\nhlong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.CukCukDemoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nglon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nhlong\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.DataLayer\\MISA.DataLayer.csproj": {
-                "projectPath": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.DataLayer\\MISA.DataLayer.csproj"
+              "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.DataLayer\\MISA.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.DataLayer\\MISA.DataLayer.csproj"
               },
-              "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj": {
-                "projectPath": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj"
+              "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj": {
+                "projectPath": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj"
               }
             }
           }
@@ -78,21 +78,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.DataLayer\\MISA.DataLayer.csproj": {
+    "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.DataLayer\\MISA.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.DataLayer\\MISA.DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.DataLayer\\MISA.DataLayer.csproj",
         "projectName": "MISA.DataLayer",
-        "projectPath": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.DataLayer\\MISA.DataLayer.csproj",
-        "packagesPath": "C:\\Users\\nglon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.DataLayer\\obj\\",
+        "projectPath": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.DataLayer\\MISA.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\nhlong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nglon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nhlong\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,8 +106,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj": {
-                "projectPath": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj"
+              "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj": {
+                "projectPath": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj"
               }
             }
           }
@@ -150,21 +150,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj": {
+    "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj",
+        "projectUniqueName": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj",
         "projectName": "MISA.Services",
-        "projectPath": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj",
-        "packagesPath": "C:\\Users\\nglon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nglon\\OneDrive\\Documents\\Project\\MISA.Web2021_02\\mf724-nhlong\\MISA.CukCukDemoAPI\\MISA.Services\\obj\\",
+        "projectPath": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.Services\\MISA.Services.csproj",
+        "packagesPath": "C:\\Users\\nhlong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nhlong\\Documents\\MISAEshop\\MISA.CukCukDemoAPI\\MISA.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nglon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nhlong\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -204,7 +204,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

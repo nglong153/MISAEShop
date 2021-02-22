@@ -18,6 +18,10 @@ namespace MISA.Service.Entities
         public string CityName { get; set; }
         public string DistrictName { get; set; }
         public string WardName { get; set; }
+        public string ShopTaxCode { get; set; }
+        public string ShopNation { get; set; }
+        public string ShopStreet { get; set; }
+
     }
 
 }
